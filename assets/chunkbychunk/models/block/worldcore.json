@@ -1,0 +1,12 @@
+{
+	"parent" : "block/cube",
+	"textures" : {
+		"up" : "chunkbychunk:block/world_core",
+		"down" : "chunkbychunk:block/world_core",
+		"north" : "chunkbychunk:block/world_core",
+		"east" : "chunkbychunk:block/world_core",
+		"south" : "chunkbychunk:block/world_core",
+		"west" : "chunkbychunk:block/world_core",
+		"particle": "chunkbychunk:block/world_core"
+	}
+}

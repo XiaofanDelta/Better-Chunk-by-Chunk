@@ -1,0 +1,9 @@
+{
+	"parent": "chunkbychunk:block/base",
+	"textures": {
+		"bottom": "chunkbychunk:block/chunk_spawner/special/jungle_bottom",
+		"side": "chunkbychunk:block/chunk_spawner/special/jungle_side",
+		"top": "chunkbychunk:block/chunk_spawner/special/jungle_top",
+		"particle": "chunkbychunk:block/chunk_spawner/special/jungle_side"
+	}
+}

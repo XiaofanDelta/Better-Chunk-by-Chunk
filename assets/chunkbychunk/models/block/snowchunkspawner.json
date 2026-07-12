@@ -1,0 +1,9 @@
+{
+	"parent": "chunkbychunk:block/base",
+	"textures": {
+		"bottom": "chunkbychunk:block/chunk_spawner/special/snow_bottom",
+		"side": "chunkbychunk:block/chunk_spawner/special/snow_side",
+		"top": "chunkbychunk:block/chunk_spawner/special/snow_top",
+		"particle": "chunkbychunk:block/chunk_spawner/special/snow_side"
+	}
+}

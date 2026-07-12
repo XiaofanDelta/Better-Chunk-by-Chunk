@@ -1,0 +1,9 @@
+{
+	"parent": "chunkbychunk:block/base",
+	"textures": {
+		"bottom": "chunkbychunk:block/",
+		"side": "chunkbychunk:block/",
+		"top": "chunkbychunk:block/",
+		"particle": "chunkbychunk:block/"
+	}
+}

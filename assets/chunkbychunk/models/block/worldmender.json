@@ -1,0 +1,9 @@
+{
+	"parent": "chunkbychunk:block/base",
+	"textures": {
+		"bottom": "chunkbychunk:block/world_mender/bottom",
+		"side": "chunkbychunk:block/world_mender/side",
+		"top": "chunkbychunk:block/world_mender/top",
+		"particle": "chunkbychunk:block/world_core"
+	}
+}

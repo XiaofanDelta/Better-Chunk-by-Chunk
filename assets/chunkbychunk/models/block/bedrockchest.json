@@ -1,0 +1,9 @@
+{
+	"parent": "chunkbychunk:block/base",
+	"textures": {
+		"bottom": "chunkbychunk:block/bedrock_chest/side",
+		"side": "chunkbychunk:block/bedrock_chest/side",
+		"top": "chunkbychunk:block/bedrock_chest/top",
+		"particle": "chunkbychunk:block/bedrock_chest/side"
+	}
+}
